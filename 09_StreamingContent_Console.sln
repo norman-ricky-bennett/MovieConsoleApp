@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_StreamingContent_Console", "09_StreamingContent_Console\09_StreamingContent_Console.csproj", "{D78C64CE-8BBA-447E-B0DD-16AAF037D545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_RepositoryPattern_Repo", "..\..\Users\Old Ironsides\source\repos\SD76Lessons\SD76Lessons\SD76Lessons\07_RepositoryPattern_Repo\07_RepositoryPattern_Repo.csproj", "{D347CCE2-CAA7-47CB-883F-9E0427DF24D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78C64CE-8BBA-447E-B0DD-16AAF037D545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78C64CE-8BBA-447E-B0DD-16AAF037D545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78C64CE-8BBA-447E-B0DD-16AAF037D545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78C64CE-8BBA-447E-B0DD-16AAF037D545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D347CCE2-CAA7-47CB-883F-9E0427DF24D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D347CCE2-CAA7-47CB-883F-9E0427DF24D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D347CCE2-CAA7-47CB-883F-9E0427DF24D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D347CCE2-CAA7-47CB-883F-9E0427DF24D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C285BDA8-6A48-44C3-99F9-20C7A9266615}
+	EndGlobalSection
+EndGlobal
